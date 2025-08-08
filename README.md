@@ -9,11 +9,11 @@ Projeto - Aluraflix - Alexssandro - 1TD
     <link
         href="https://fonts.googleapis.com/css2?family=Chakra+Petch:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&display=swap"
         rel="stylesheet">
-    <title>Guiminamflix</title>
+    <title>aluraflix-alexssandro-1-TD</title>
 </head>
 
 <body>
-    <header>GUIMINAMFLIX</header>
+    <header>aluraFLIX-alexssandro-1-TD</header>
 
     <section class="chamada">
         <div class="chamada-texto">
